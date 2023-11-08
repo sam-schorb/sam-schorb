@@ -30,6 +30,6 @@ I'm always open to collaborating on projects that are at the intersection of mus
 ## Get in Touch
 
 - 📫 How to reach me: [sam_schorb@hotmail.com](mailto:sam_schorb@hotmail.com)
-- 🔗 LinkedIn: [Sam Schorb](https://www.linkedin.com/in/samschorb)
+- 🔗 LinkedIn: [Sam Schorb](https://www.linkedin.com/in/sam-schorb-713b82274/)
 
 Thank you for visiting my GitHub. Let's make some noise together!
