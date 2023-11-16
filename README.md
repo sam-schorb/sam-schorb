@@ -1,6 +1,6 @@
 # Welcome to Sam Schorb's GitHub
 
-Hi there! I'm Sam, a creative technologist and full-stack developer with a rich background in electronic music production and education. I'm the founder of Imaginary, where I focus on developing innovative tools for musicians and creators, blending my passion for music with cutting-edge technology.
+Hi there! I'm Sam, a creative technologist and full-stack developer with a rich background in electronic music production and education. I'm the founder of iimaginary, where I focus on developing innovative tools for musicians and creators, blending my passion for music with cutting-edge technology.
 
 ## About Me
 
