@@ -1,8 +1,9 @@
 # Welcome to Sam Schorb's GitHub
 
-Hi there! I'm Sam, creator of:
+Hi there! I'm Sam, creator of some exciting web applications you can try here:
 
 [Visions](https://visions.iimaginary.com/)
+
 [Raincloud](https://raincloud.iimaginary.com/patch/6672d2bd539caa38942aa0e5)
 
 I'm a Full-Stack developer and creative technologist with a background in electronic music production and education. I'm the founder of IImaginary, where I focus on developing innovative tools for creators, blending my passion for art and music with cutting-edge technology.
@@ -24,12 +25,12 @@ Here's a quick overview of my technical skill set:
 
 My projects often reflect my diverse interests and skills, bridging the gap between music and interactive technology:
 
-- **Visions**: An application I developed that showcases my ability to integrate AI into creative tools. [Explore Visions](https://visions.iimaginary.com/)
-- **Raincloud**: A web service that transforms RNBO patches from Max MSP into fully hosted websites. [Check out Raincloud](https://raincloud.iimaginary.com/patch/6672d2bd539caa38942aa0e5)
+- [**Visions**](https://visions.iimaginary.com/): An application I developed that showcases my ability to integrate AI into creative tools. 
+- [**Raincloud**](https://raincloud.iimaginary.com/patch/6672d2bd539caa38942aa0e5): A web service that transforms RNBO patches from Max MSP into fully hosted websites. 
 - **Typesetter**: A sophisticated tool designed to typeset a plaintext file into a novel-formatted PDF. It intelligently processes content to create a professionally styled book layout, incorporating advanced text processing algorithms and principles of professional book design.
-- **Polygon**: A web-based drum sequencing machine that uses spatial computing principles to create unconventional, asymmetrical drum sequences. It allows users to place nodes representing different drum sounds on a blank canvas, dictating rhythm timing and sequence through spatial arrangement. [Try Polygon](https://polygon.iimaginary.com/)
-- **Droplets**: A web application developed using RNBO, providing an intuitive interface similar to platforms like Spotify. It allows MaxMSP users to upload and host audio-only versions of their patches on the web, leveraging RNBO's web assembly feature for integrating synthesized sounds and random seed parameters. [Explore Droplets](https://droplets.iimaginary.com/)
-- **Orbits**: A stochastic drum machine and sequencer that operates directly in a web browser. It randomizes patterns but allows users to control macro parameters like pattern density, offering a distinct and playful experience in drum sequencing. [Play with Orbits](https://iimaginary.com/orbits/)
+- [**Polygon**](https://polygon.iimaginary.com/): A web-based drum sequencing machine that uses spatial computing principles to create unconventional, asymmetrical drum sequences. It allows users to place nodes representing different drum sounds on a blank canvas, dictating rhythm timing and sequence through spatial arrangement. 
+- [**Droplets**](https://droplets.iimaginary.com/): A web application developed using RNBO, providing an intuitive interface similar to platforms like Spotify. It allows MaxMSP users to upload and host audio-only versions of their patches on the web, leveraging RNBO's web assembly feature for integrating synthesized sounds and random seed parameters. 
+- [**Orbits**](https://iimaginary.com/orbits/): A stochastic drum machine and sequencer that operates directly in a web browser. It randomizes patterns but allows users to control macro parameters like pattern density, offering a distinct and playful experience in drum sequencing. 
 
 
 ## Collaboration
