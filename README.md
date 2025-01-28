@@ -41,7 +41,3 @@ I'm always open to collaborating on projects that are at the intersection of mus
 
 - 📫 How to reach me: [sam_schorb@hotmail.com](mailto:sam_schorb@hotmail.com)
 - 🔗 LinkedIn: [Sam Schorb](https://www.linkedin.com/in/sam-schorb/)
-
-## Thank you
-
-Thank you very much to Felix Roos and Olivia Jack for the inspiration for the interface for Visions. Strudel and Hydra are incredible.
